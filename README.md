@@ -13,9 +13,7 @@
   <a href="mailto:dmadeline2003@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-dmadeline2003%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white">
   </a>
-  <a href="https://twitch.tv/yourchannel">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=flat&logo=twitch&logoColor=white">
-  </a>
+
 </p>
 
 ---
