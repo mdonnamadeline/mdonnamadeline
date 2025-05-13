@@ -1,48 +1,35 @@
-<!-- Profile README for Donna Madelene Mateo -->
+# ✨ Hey, I'm Donna Madelene Mateo ✨
 
-<h1 align="center">✨ Hey, I'm Donna Madelene Mateo ✨</h1>
-<h3 align="center">Developer • Digital Artist • Streamer</h3>
+### Developer • Digital Artist • Streamer
 
-<p align="center">
-  💻 I build things for the web and bring ideas to life through code and creativity.<br>
-  🎨 When I'm not coding, I'm drawing or vibing with my stream fam.<br>
-  🎓 Currently finishing my degree and leveling up in <strong>Java</strong> and <strong>TypeScript</strong>.
-</p>
+💻 I build things for the web and bring ideas to life through code and creativity.  
+🎨 When I'm not coding, I'm drawing or vibing with my stream fam.  
+🎓 Currently finishing my degree and leveling up in **Java** and **TypeScript**.
 
-<p align="center">
-  <a href="mailto:dmadeline2003@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-dmadeline2003@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-</p>
+[![Email Badge](https://img.shields.io/badge/Gmail-dmadeline2003@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dmadeline2003@gmail.com)
 
 ---
 
 ## 🛠️ Languages & Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,java,php,cs,c,figma,vscode,github,git,docker,mongodb,wordpress" />
-</p>
+![Languages & Tools](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,java,php,cs,c,figma,vscode,github,git,docker,mongodb,wordpress)
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mdonnamadeline&theme=tokyonight_duo&hide_border=true" />
-</p>
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=mdonnamadeline&theme=tokyonight_duo&hide_border=true)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdonnamadeline&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdonnamadeline&layout=compact&theme=radical" />
-</p>
+![Stats](https://github-readme-stats.vercel.app/api?username=mdonnamadeline&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdonnamadeline&layout=compact&theme=radical)
 
 ---
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://github.com/mdonnamadeline/mdonnamadeline/raw/output/github-contribution-grid-snake.svg" />
-</p>
+![Contribution Snake](https://github.com/mdonnamadeline/mdonnamadeline/raw/output/github-contribution-grid-snake.svg)
+
 ---
 
 <h2 align="center">
