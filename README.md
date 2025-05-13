@@ -6,7 +6,7 @@
 🎨 When I'm not coding, I'm drawing or vibing with my stream fam.  
 🎓 Currently finishing my degree and leveling up in **Java** and **TypeScript**.
 
-[![Email Badge](https://img.shields.io/badge/Gmail-dmadeline2003@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dmadeline2003@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dmadeline2003@gmail.com)
 
 ---
 
