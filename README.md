@@ -41,9 +41,8 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/mdonnamadeline/mdonnamadeline/raw/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
+  <img src="https://github.com/mdonnamadeline/mdonnamadeline/raw/output/github-contribution-grid-snake.svg" />
 </p>
-
 ---
 
 <h2 align="center">
