@@ -9,9 +9,10 @@
 
 <p align="center">
   <a href="mailto:&#100;&#109;&#97;&#100;&#101;&#108;&#105;&#110;&#101;&#50;&#48;&#48;&#51;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;">
-    <img src="https://img.shields.io/badge/Gmail-contact%20me-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail">
+    <img src="https://img.shields.io/badge/Gmail-contact%20me-D14836?style=flat&logo=gmail&logoColor=white" alt="Email me">
   </a>
 </p>
+
 
 
 
