@@ -73,7 +73,7 @@
 
 <h2 align="center">🐍 Contribution Snake</h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mdonnamadelene/mdonnamadelene/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/mdonnamadeline/mdonnamadeline/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 
