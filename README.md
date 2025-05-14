@@ -8,10 +8,9 @@
 </p>
 
 <p align="center">
-  <a href >
-    <img src="https://img.shields.io/badge/Gmail-dmadeline2003%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white">
-  </a>
+  <img src="https://img.shields.io/badge/Email-contact%20me-D14836?style=flat&logo=gmail&logoColor=white" alt="Email badge">
 </p>
+
 
 ## 🚀 Tech Stack
 
