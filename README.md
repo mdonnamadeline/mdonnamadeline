@@ -71,10 +71,11 @@
   <img height="150" src="https://streak-stats.demolab.com?user=mdonnamadeline&theme=radical">
 </p>
 
-## 🐍 Contribution Snake
+<h2 align="center">🐍 Contribution Snake</h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mdonnamadeline/mdonnamadeline/output/github-snake.svg" alt="Contribution Snake">
+  <img src="https://raw.githubusercontent.com/mdonnamadelene/mdonnamadelene/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
+
 
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFC2&center=true&vCenter=true&width=700&lines=Thanks+for+visiting!;Follow+for+updates!">
