@@ -14,9 +14,6 @@
 </p>
 
 ## 🚀 Tech Stack
-<p align="center">
-  <img src="https://github.com/mdonnamadeline/mdonnamadeline/assets/YOUR_IMAGE_ID_HERE" alt="Tech Stack" />
-</p>
 
 ### Frontend
 
